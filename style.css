@@ -55,6 +55,9 @@ body{
     text-decoration: none;
     background: none;
 }
+.profile__links.icon:last-child{
+    margin-right:0px;
+}
 
 .profile__links{
     background:var(--color-secondary);
