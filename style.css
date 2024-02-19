@@ -49,7 +49,7 @@ body{
 }
 
 .profile__links.icon{
-    margin: 0 24px;
+    margin: 0 15px;
     font-size: 28px;
     color: var(--color-alternative);
     text-decoration: none;
